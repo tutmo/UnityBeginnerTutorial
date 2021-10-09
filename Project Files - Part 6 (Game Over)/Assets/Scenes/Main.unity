@@ -1612,7 +1612,7 @@ MonoBehaviour:
   bottomPipePrefab: {fileID: 5527173070679498386, guid: ee681a440a319514ba3750687ea9a7dc, type: 3}
   topPipePrefab: {fileID: 4949902506049190598, guid: eb314d4dfabe9ca448d1aa1d24bd5f02, type: 3}
   spawnPoint: {fileID: 1034137690}
-  moveSpeed: {x: -0.01, y: 0, z: 0}
+  moveSpeed: {x: -5, y: 0, z: 0}
 --- !u!4 &2133595170
 Transform:
   m_ObjectHideFlags: 0

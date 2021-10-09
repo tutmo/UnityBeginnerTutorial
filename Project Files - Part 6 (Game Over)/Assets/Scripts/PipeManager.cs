@@ -67,6 +67,6 @@ public class PipeManager : MonoBehaviour
     void PipeMover()
     {
         // Moves the parent object that contains all spawned pipes
-        transform.position += moveSpeed;
+        transform.position += moveSpeed * Time.deltaTime;
     }
 }
